@@ -1,0 +1,26 @@
+{
+  "name": "custom-timeouts",
+  "version": "1.0.0",
+  "description": "Custom module to handle timeouts with a Promise so you can await your timeouts easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshayk/custom-timeout-npm.git"
+  },
+  "keywords": [
+    "timeout"
+  ],
+  "author": "Shay Kintzlinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshayk/custom-timeout-npm/issues"
+  },
+  "homepage": "https://github.com/kshayk/custom-timeout-npm#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
