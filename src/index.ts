@@ -1,10 +1,7 @@
 const runTimeout = (delay: number) : Promise<void> => {
   return new Promise((resolve, reject) => {
-    // create timeout
     const timeout = setTimeout(() => {
-      // clear timeout
       clearTimeout(timeout);
-      // resolve promise
       resolve();
     }, delay);
   });
