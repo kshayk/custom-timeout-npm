@@ -1,6 +1,6 @@
 {
   "name": "custom-timeouts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Custom module to handle timeouts with a Promise so you can await your timeouts easily",
   "main": "index.js",
   "scripts": {

@@ -1,4 +1,4 @@
-# Custom timeouts
+﻿# Custom timeouts
 
 With this package you will be able to call functions that will perform a timeout with a promise, giving you the option 
 to easily use ```await``` on those functions.
